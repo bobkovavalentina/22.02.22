@@ -4,7 +4,7 @@ HTML>
 <BASE>
 <BODY bgcolor=”silver”>
 <FORM>
-<CENTER><FONT size=6>С 23 февраля</font></center>
+<CENTER><FONT size=6></font></center>
 <HR color=”blue”>
 <HR 
 </BODY>
